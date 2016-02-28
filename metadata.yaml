@@ -1,0 +1,30 @@
+_repo: If-I-Were-King_5351
+creator:
+  author:
+    agent_name: McCarthy, Justin H. (Justin Huntly)
+    aliases:
+    - M'Carthy, Justin Huntly
+    - McCarthy, Justin Huntly
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '25862'
+    url: http://www.gutenberg.org/2009/agents/25862
+    wikipedia: http://en.wikipedia.org/wiki/Justin_Huntly_McCarthy_%281859-1936%29
+description: New National Theatre, Wm. H. Rapley, manager, Wm. H. Fowler, treasurer.
+  E.H. Sothern, management Daniel Frohman, in "If I Were King," a play, by Justin
+  Huntly McCarthy. Produced under the direction of William Seymour, properties by
+  E. Siedle, costumes by Hermann, designed by H.A. Ogden, scenery built by J. O'Brien.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
+- !lcsh 'Villon, François, 1431-1463 -- Fiction'
+title: If I Were King
+url: http://www.gutenberg.org/ebooks/5351

@@ -1,5 +1,5 @@
 _repo: If-I-Were-King_5351
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
 - !lcsh 'Villon, François, 1431-1463 -- Fiction'
+- GITenberg
 title: If I Were King
 url: http://www.gutenberg.org/ebooks/5351
